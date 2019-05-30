@@ -1,0 +1,11 @@
+@charset "utf-8";
+.sm p {
+	font-size: medium;
+}
+.sm h2 {
+	font-size: large;
+}
+.h5 {
+	font-family: Impact;
+	font-size: large;
+}
